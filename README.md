@@ -1,6 +1,6 @@
 # ClimateWins: Supervised Machine Learning Project
 ## Project Description: Using various supervised machine learning models to assess ability to predict "pleasant weather days" in various cities across Europe using historical weather data from those areas.
-### Used Python and various libraries (including pandas, numpy, seaborn, matplotlib, sklearn, and others) to run several iterations three different algorithms.
+### Used Python and various libraries (including pandas, numpy, seaborn, matplotlib, sklearn, and others) to run several iterations on three different algorithms.
 - K-Nearest Neighbors (KNN)
   - Adjusted the number of neighbors, trying models with 3,4,6 and 10 neighbors.
   - Attempted other techniques like undersampling and distance-based weighting.
