@@ -7,7 +7,7 @@
   - Assessed model performance through examination of mutliabel confusion matrices and various performance metrics, including overall accuracy, recall, precision, and F1-scores.
   - Arrived at test accuracies that never went beyond 45%. 
 - Decision Trees
-  - Ran mdoels without pruning and then using a pre-pruning technique.
+  - Ran models without pruning and then using a pre-pruning technique.
   - Attempted other techniques such as class weighting and Synthetic Minority Oversampling Technique (SMOTE)
   - Assessed model performance through examination of mutliabel confusion matrices and various performance metrics, including overall accuracy, recall, precision, and F1-scores.
   - Arrived at a test accuracy of 93% using the pre-pruning technique, however at the cost of class imbalance. 
